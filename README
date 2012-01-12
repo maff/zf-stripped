@@ -1,0 +1,4 @@
+Stripped version of the ZF standard distribution
+
+* only library directory
+* no commit history (full git mirror repo size 100M+)
